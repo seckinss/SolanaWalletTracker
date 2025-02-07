@@ -6,6 +6,7 @@
 
 ## Table of Contents
 - [Quick Demo](#quick-demo)
+- [Environment Variables](#environment-variables)
 
 ## Quick demo
 
