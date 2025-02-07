@@ -2,7 +2,7 @@
     <p>Solana Wallet Tracker (Only For Swap Transactions)</p>
 </h3>
 
-`tg-wallet-tracker` is a library that enables you to track solana wallet transactions and get notified via telegram.
+`tg-wallet-tracker` is a project that enables you to track solana wallet transactions and get notified via telegram.
 
 ## Table of Contents
 - [Quick Demo](#quick-demo)
