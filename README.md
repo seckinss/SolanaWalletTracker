@@ -10,7 +10,7 @@
 
 ## Quick demo
 
-First install the package.
+First clone the project on your environment.
 ```bash
 git clone https://github.com/seckinss/SolanaWalletTracker.git
 ```
