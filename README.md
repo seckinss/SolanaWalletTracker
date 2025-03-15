@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Quick Demo](#quick-demo)
 - [Environment Variables](#environment-variables)
-
+- [Sample](#sample)
 ## Quick demo
 
 First clone the project on your environment.
@@ -28,8 +28,12 @@ npm run build
 ```
 Run the project.
 ```bash
+
 npm run start
 ```
+## Sample
+
+<img width="412" alt="Screenshot 2025-03-15 at 9 57 58 PM" src="https://github.com/user-attachments/assets/25369212-d280-47e6-8be8-b3529298b1f3" />
 
 ## Environment Variables
 
